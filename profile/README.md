@@ -1,12 +1,15 @@
-## Hi there 👋
+![github-banner](../github-banner.png)
+---
 
-<!--
+# Welcome to `Myfin`
 
-**Here are some ideas to get you started:**
+ #    "`Achieve your financial goals`"
+ <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=32&duration=3000&pause=750&color=38A3A5&background=F2F2F200&center=true&vCenter=true&multiline=true&random=false&width=440&height=240&lines=%F0%9F%AA%99%F0%9F%AA%99%F0%9F%AA%99%F0%9F%AA%99;Achieve+your+financial+goals;%F0%9F%AA%99%F0%9F%92%B9%E2%86%97%EF%B8%8F%F0%9F%A5%B3)](https://git.io/typing-svg) -->
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> ## Mission
+
+    To be a catalyst for innovation, through technology that protects everyone from  
+    financial stress while pursuing their dreams and visions to life.
+
+
+
