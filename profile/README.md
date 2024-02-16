@@ -1,4 +1,4 @@
-![github-banner](../github-banner.png)
+![github-banner](https://github.com/FinExpanse/.github/blob/main/github-banner.png?raw=true)
 ---
 
 # Welcome to `Myfin`
